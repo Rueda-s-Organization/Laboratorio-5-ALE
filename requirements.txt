@@ -1,0 +1,8 @@
+gymnasium[atari]
+ale-py
+moviepy
+imageio-ffmpeg
+numpy
+matplotlib
+nbformat
+jupyter
